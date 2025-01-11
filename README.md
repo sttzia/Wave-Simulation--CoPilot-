@@ -7,10 +7,8 @@ This repository contains a Python implementation of a wave simulation. The simul
 To clone this repository, use the following command:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/sttzia/Wave-Simulation--CoPilot->
 ```
-
-Replace `<repository-url>` with the actual URL of your GitHub repository.
 
 ## Installation
 
