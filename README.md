@@ -79,6 +79,8 @@ The variable `steps = 10000` defines the number of time steps in the simulation.
 
 Running the simulation with `steps = 10000` can take a significant amount of time, potentially exceeding half an hour!. Ensure that you have sufficient computational resources and time before running the simulation.
 
+Use `steps = 100` for a test `Waveguide.mp4` output file, of approximately `3 seconds`
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
